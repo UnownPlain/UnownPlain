@@ -12,5 +12,5 @@
 <details>
   <summary>Don't Click This</summary>
   
-  <img src="/lol.webp" />
+  <img src="https://i.imgur.com/HdvWcB5.mp4" />
 </details>
