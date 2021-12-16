@@ -12,5 +12,5 @@
 <details>
   <summary>Don't Click This</summary>
   
-  <img src="https://i.imgur.com/HdvWcB5.mp4" />
+  <img src="lol.mp4" />
 </details>
