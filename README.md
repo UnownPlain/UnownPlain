@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">Hello There</h1>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=UnownPlain" />
@@ -10,7 +10,7 @@
 </p>
 
 <details>
-  <summary>The Upside Down</summary>
+  <summary>Don't Click This</summary>
   
   <img src="/lol.webp" />
 </details>
