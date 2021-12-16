@@ -1,2 +1,16 @@
-# Hello there.
-whyyyyyyyy areeeeee youuuuuuu herrrrreeeeee
+<h1 align="center">Welcome</h1>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Kyza.Kyza" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UnownPlain&theme=dark&hide=['issues']&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnownPlain&layout=compact&theme=dark" />
+</p>
+
+<details>
+  <summary>The Upside Down</summary>
+  
+  <img src="/lol.webp" />
+</details>
