@@ -12,5 +12,5 @@
 <details>
   <summary>Don't Click This</summary>
   
-  <img src="lol.mp4" />
+  <img src="lol.webp" />
 </details>
