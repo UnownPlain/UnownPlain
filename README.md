@@ -1,7 +1,7 @@
 <h1 align="center">Hello There</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=UnownPlain.UnownPlain" />
+  <img src="https://visitor-badge.deta.dev/badge?page_id=UnownPlain.visitor-badge" />
 </p>
 
 <details>
